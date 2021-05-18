@@ -1,5 +1,4 @@
 # 7506-Datos-TP1
-# TP0 - Taller - Contador de palabras
 ---
 - Alumno: Amaya, Santos Emanuel - 96891
 - Alumno: Gonzales, Pablo Ariel - 95079
