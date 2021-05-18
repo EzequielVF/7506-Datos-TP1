@@ -14,4 +14,4 @@ El repositorio cuenta con:
 - El enunciado del trabajo practico.
 - El informe sobre la data analizada.
 
-![Link a la competicion](https://www.drivendata.org/competitions/57/nepal-earthquake/)
+Aqui el link a la competicion en DrivenData -> [Link](https://www.drivendata.org/competitions/57/nepal-earthquake/)
